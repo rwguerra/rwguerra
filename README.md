@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, Im Ricardo Wagner Guerra👋
 
 <!--
 **rwguerra/rwguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/cadoguerra?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-Adicione&nbsp;me&nbsp;no&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guerraricardo/)](https://www.linkedin.com/in/guerraricardo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m Engineer pursuing a Master's degree in Electrical Engineering
+- 🔭 I’m currently looking for opportunities
+- 🌱 I’m currently in a learning path on AI
+- 📫 How to reach me: [E-mail](mailto:rwguerra@gmail.com), [LinkedIn](https://www.linkedin.com/in/guerraricardo/)
+- ⚡ Fun fact: My fist undergraduation was in law, i'm a lawyer!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rwguerra)
