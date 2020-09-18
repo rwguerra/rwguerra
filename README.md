@@ -7,6 +7,6 @@
 - 🔭 I’m currently looking for opportunities
 - 🌱 I’m currently in a learning path on AI
 - 📫 How to reach me: [E-mail](mailto:rwguerra@gmail.com), [LinkedIn](https://www.linkedin.com/in/guerraricardo/)
-- ⚡ Fun fact: My fist undergraduation was in law, i'm a lawyer!
+- ⚡ Fun fact: My first undergraduation was in law, i'm a lawyer!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rwguerra)
